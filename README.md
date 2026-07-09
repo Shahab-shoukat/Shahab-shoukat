@@ -1,27 +1,22 @@
-## Hi there 👋 I'm Shahab
+## I'm Shahab 👋
 
-🚀 **New to FinTech, focused on where finance meets automation and AI.**
+FinTech — here to help businesses turn financial data into clarity and automate the boring stuff.
 
-I help businesses unlock value from their financial data and workflows — from the strategy side to the execution side.
+### What I do
+- 📊 Build dashboards that make financial data actually make sense
+- 🤖 Write AI prompts that automate repetitive finance workflows
+- 🔁 Design reconciliation prompts to cut down manual finance work
+- 📈 Help FinTech products find and connect with the right audience
 
-### 💼 What I do
-- 📊 Build **business intelligence dashboards** that turn raw financial data into clear, actionable insight
-- 🤖 Design and write **AI prompts** to automate repetitive finance workflows
-- 🔁 Build **complex reconciliation prompts** to speed up and error-proof financial reconciliation processes
-- 📈 Help FinTech products and solutions get in front of the right audience — bridging the gap between the tech and the market
+### Tech I work with
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### 🌱 Currently
-- Learning the FinTech landscape in depth — regulations, products, and where automation adds the most value
-- Exploring how LLM-powered workflows can simplify finance operations (reconciliation, reporting, data cleanup)
 
-### 🎯 Looking to collaborate on
-- Dashboard/BI projects for financial or fintech data
-- Prompt engineering / workflow automation for finance teams
-- FinTech marketing or go-to-market projects
+### Currently
+Learning the FinTech space inside out and exploring how AI can simplify finance operations.
 
-### 📫 Reach me
-- LinkedIn: [https://www.linkedin.com/in/muhammad-shahab-shoukat-afa-54699a198/]
-- Email: [shahab_shoukat@outlook.com]
+### Let's talk
+📫 [shahab_shoukat@outlook.com] · 🔗 [[add your LinkedIn](https://www.linkedin.com/in/muhammad-shahab-shoukat-afa-54699a198/)]
 
----
-⭐ Open to opportunities and collaborations in FinTech, automation, and data-driven finance.
+Open to collabs in FinTech, dashboards, and finance automation ⭐
