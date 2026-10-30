@@ -1,5 +1,3 @@
-## Hey, I'm Shahab 👋
-
 FinTech — here to help businesses turn financial data into clarity and automate the boring stuff.
 
 ### What I do
